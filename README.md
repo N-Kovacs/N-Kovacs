@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nicholas Kovacs</h1>
 <h3 align="center">A full stack web developer looking for work</h3>
 
-- I’m currently working on [CodeKovacs](https://github.com/N-Kovacs/CodeKovacs)
+- I’m currently working on [CodeKovacs](https://github.com/N-Kovacs/CodeKovacs) and [Higher lower Flawed AI](https://github.com/N-Kovacs/Higher-Lower-Flawed-AI) 
 
 - I’m currently looking to expand my knowledge on **React**
 
